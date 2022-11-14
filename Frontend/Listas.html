@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <title>Locadora</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="Inicio.html">Rent a game !</a>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="Cadastros.html">Cadastros</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Listas.html">Listas</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section>
+        <div>
+            <!-- ------------------------------------------------------------------------------------------------- -->
+            <button class="mr-5  col btn btn-primary" type="button" data-toggle="collapse"
+                data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample" onclick="listarUsuarios()">
+                Lista de ususarios
+            </button>
+            </p>
+            <div class="collapse" id="collapseExample">
+                <div class="card card-body">
+                    <!--Lista de ususarios-->
+                    <div class="ml-5 mt-5 w-75">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Nome</th>
+                                    <th scope="col">CPF</th>
+                                    <th scope="col">Editar/deletar</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tabelaUsuarios">
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ------------------------------------------------------------------------------------------------- -->
+
+            <button class=" mr-5  col btn btn-primary" type="button" data-toggle="collapse"
+                data-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" onclick="listarLocacao()">
+                Lista de locação
+            </button>
+            </p>
+            <div class="collapse" id="collapseExample2">
+                <div class="card card-body">
+
+                    <div class="ml-5 mt-5 w-75">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Nome do jogo</th>
+                                    <th scope="col">Nome do usuario</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tabelaLocacoes">
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- ------------------------------------------------------------------------------------------------- -->
+            <button class=" mr-5  col btn btn-primary" type="button" data-toggle="collapse"
+                data-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3" onclick="listarJogos()">
+                Listar jogos
+            </button>
+            </p>
+            <div class="collapse" id="collapseExample3">
+                <div class="card card-body">
+
+                    <div class="ml-5 mt-5 w-75">
+                        <div>
+                            <h1>Lista de jogos</h1>
+                        </div>
+                        <div id="corpoAcordeon"></div>
+                        <!-- ------------------------------------------------------------------------------------------------- -->
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                                <div class="card-header" id="headingOne">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                            data-target="#collapseOne" aria-expanded="false"
+                                            aria-controls="collapseOne">
+                                            Nome do jogo
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                    data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <h5>Descrição</h5>
+                                        <p>...</p>
+                                        <h5>Genero</h5>
+                                        <p>...</p>
+                                        <h5>Console</h5>
+                                        <p>...</p>
+                                        <button type="button" class="btn btn-primary mr-3" onclick="atualizar()">Editar</button>
+                                        <button type="button" class="btn btn-danger">Deletar</button>
+
+                                        <div>
+                                            <button type="submit" class="btn btn-primary mt-3" >Alugar</button>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- ------------------------------------------------------------------------------------------------- -->
+                            <div class="card">
+                                <div class="card-header" id="headingTwo">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                            data-target="#collapseTwo" aria-expanded="false"
+                                            aria-controls="collapseTwo">
+                                            Nome do jogo
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                    data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <h5>Descrição</h5>
+                                        <p>...</p>
+                                        <h5>Genero</h5>
+                                        <p>...</p>
+                                        <h5>Console</h5>
+                                        <p>...</p>
+                                        <button type="button" class="btn btn-primary mr-3" onclick="atualizar()">Editar</button>
+                                        <button type="button" class="btn btn-danger">Deletar</button>
+
+                                        <div>
+                                            <button type="submit" class="btn btn-primary mt-3" >Alugar</button>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- ------------------------------------------------------------------------------------------------- -->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <footer>
+
+    </footer>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="Script.js"></script>
+
+</html>
