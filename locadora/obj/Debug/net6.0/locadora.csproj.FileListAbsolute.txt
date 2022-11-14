@@ -1,0 +1,106 @@
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.AssemblyReference.cache
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.AssemblyInfoInputs.cache
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.AssemblyInfo.cs
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\appsettings.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\locadora.exe
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\locadora.deps.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\locadora.runtimeconfig.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\locadora.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\ref\locadora.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\locadora.pdb
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\scopedcss\bundle\locadora.styles.css
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.CopyComplete
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\ref\locadora.dll
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.pdb
+C:\Users\Luiz Tuc\Documents\Nova pasta\locadora\obj\Debug\net6.0\locadora.genruntimeconfig.cache
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\appsettings.Development.json
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\appsettings.json
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\locadora.exe
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\locadora.deps.json
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\locadora.runtimeconfig.json
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\locadora.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\locadora.pdb
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Humanizer.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Coisas\Nova pasta\locadora\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.AssemblyReference.cache
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.AssemblyInfoInputs.cache
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.AssemblyInfo.cs
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.CoreCompileInputs.cache
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.MvcApplicationPartsAssemblyInfo.cs
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.MvcApplicationPartsAssemblyInfo.cache
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\scopedcss\bundle\locadora.styles.css
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.csproj.CopyComplete
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.dll
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\refint\locadora.dll
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.pdb
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\locadora.genruntimeconfig.cache
+D:\Coisas\Nova pasta\locadora\obj\Debug\net6.0\ref\locadora.dll
